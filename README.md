@@ -19,7 +19,6 @@ add
 ```json
 {
   "behavior": {
-        // Active theme
         "theme": "Snazzy"
       }
 }
