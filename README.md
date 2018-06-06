@@ -26,3 +26,8 @@ add
 ```
 
 to the config file located at ```~/Library/Application Support/org.yanex.mart/conf.json```
+
+
+## What it looks like:
+
+![Marta-Snazzy](Marta-Snazzy.png)
