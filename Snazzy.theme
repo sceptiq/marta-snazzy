@@ -1,0 +1,106 @@
+{
+    "name": "Snazzy",
+
+    "base": {
+        "background": "#282a38",
+        "separator": "#5af78e",
+        "text": "#eff0eb"
+    },
+
+    "behavior": {
+        "controlStyle": "dark"
+    },
+    
+    "interface": {
+        "paneSeparatorWidth": "thin"
+    },
+
+    "terminal": {
+        "cursor": {
+            "background": "#46473b",
+            "text": "#ffffff"
+        }
+    },
+
+    "actionBar": {
+        "button": {
+            "background": "#282a38",
+            "hotkey": "#5af78e",
+            "text": "#5af78e",
+            "cornerRadius": 3
+        },
+
+        "separator": "#5af78e"
+    },
+
+    "breadcrumbs": {
+        "color1": "#282a38",
+        "color2": "#34362c",
+        "color3": "#44483a",
+        "separator": "#5af78e",
+        "chunkStyle": "triangle"
+    },
+
+    "files": {
+        "background": {
+            "alternate": "#282a38",
+            "current": "#5af78e",
+            "currentSelected": "#5af78e"
+        },
+
+        "text": {
+            "current": "#282a38",
+            "selected": "#ff5c57",
+            "currentSelected": "#ff5c57",
+            "hidden": "#666666"
+        },
+
+        "dragDropSelection": {
+            "width": 1
+        }
+    },
+
+    "searchBar": {
+        "material": "ultraDark",
+
+        "border": {
+            "width": 1,
+            "cornerRadius": 1
+        },
+
+        "query": {
+            "placeholderText": "#aba8aa"
+        },
+
+        "results": {
+            "text": "#eff0eb",
+            "highlighting": "#5af78e",
+            "subtitle": "#666666",
+            "selection": "#38382e"
+        },
+
+        "rowSeparator": {
+            "show": true,
+            "color": "#5af78e"
+        }
+    },
+
+    "statusBar": {
+        "text": "#57c7ff",
+        "border": "#6a6a6a"
+    },
+
+    "tabs": {
+        "separator": "#5af78e",
+
+        "inactive": {
+            "background": "#282a38",
+            "text": "#5af78e"
+        },
+
+        "active": {
+            "background": "#3f4256",
+            "text": "#5af78e"
+        }
+    }
+}
