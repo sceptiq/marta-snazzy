@@ -24,7 +24,7 @@
 
     "actionBar": {
         "button": {
-            "background": "#282a38",
+            "background": "#3f4256",
             "hotkey": "#5af78e",
             "text": "#5af78e",
             "cornerRadius": 3
